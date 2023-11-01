@@ -5,4 +5,3 @@ for i in range(10):
             print("{:01d}{:01d}".format(i, j))
         else:
             print("{:01d}{:01d}, ".format(i, j), end="")
-            
